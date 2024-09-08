@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API DO CLIMA</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="apiClima.css">
+</head>
+<body>
+    <center><h1 class="titulo">PREVISÃO DO TEMPO</h1>
+
+    <hr>
+
+    <p class="cidade">DIGITE A CIDADE</p>
+    <input class="caixa" type="text" id="city">
+
+    <br><br>
+
+    <button class="botao" onclick="getWeather()">PESQUISAR</button>
+    <p class="resultado" id="temperatura"></p>
+</center>
+    <script src="apiClima.js"></script>
+</body>
+</html>

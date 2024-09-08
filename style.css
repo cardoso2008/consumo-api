@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(212, 215, 255);
+}
+.titulo {
+    color: rgb(0, 0, 0);
+}
+
+.secoes {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(0, 4, 255);
+    font-size: 28px;
+}
+.texto {
+    margin-left: 50px;
+    margin-right: 60px;
+    font-size: 20px;
+}
+.botao {
+    background-color: aqua;
+    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+}

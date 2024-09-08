@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(212, 215, 255);
+}
+.subtitulo1 {
+    font-size: 28px;
+    color: blue;
+}
+.subtitulo2 {
+    font-size: 28px;
+    color: green;
+}
+.subtitulo3 {
+    font-size: 28px;
+    color: red;
+}
+.dados1 {
+    color: blue;
+    font-size: 28px;
+}
+.dados2 {
+    color: green;
+    font-size: 28px;
+}
+.dados3 {
+    color: red;
+    font-size: 28px;
+}
